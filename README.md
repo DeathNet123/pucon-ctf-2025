@@ -1,4 +1,6 @@
-## Basic BOF Kernel
+# Fake Basic BOF Kernel... it's lovely DF or i say unlimited Free
+
+## Control System Compromise
 
 # How to Run (Local)
 1. Launch the virtual machine by `./startvm`
